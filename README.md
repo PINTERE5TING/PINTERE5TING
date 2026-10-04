@@ -1,4 +1,4 @@
-![](https://file.garden/Z5Phr4rck0l4hcXQ/top.png)
+![](https://file.garden/Z5Phr4rck0l4hcXQ/top.png#80x80)
 
  <p align="center"> ${\textsf{\color{#FF5BA0}"𝗛𝗲𝘆𝗮 𝗰𝘂-𝘁𝗲𝗮𝘀! 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗮 𝘄𝗶𝗽!"}}$</p>
 
