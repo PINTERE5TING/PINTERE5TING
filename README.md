@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://cdn.discordapp.com/attachments/1524972731097944126/1557259497918038026/Untitled251_20261006201708.png?backend=b2&ex=6ac7266c&is=6ac5d4ec&hm=49ecee06f22c1b24d14059c821a5043c98ae41e05b7273ab11057bd10f5992bf&" alt="Sample Image" width="675" height="500"></p>
+ <p align="center"> <img src="https://cdn.discordapp.com/attachments/1524972731097944126/1557261010732322877/Untitled251_20261006221907.png?backend=b2&ex=6ac727d5&is=6ac5d655&hm=f9938e1f35f7191c8510e7214f105dbcc78ab7557c3f2d4b4869cdbdc6371b3a&" alt="Sample Image" width="675" height="500"></p>
 
  <p align="center"> ${\textsf{\color{#FF5BA0}𝗛𝗲𝘆𝗮 𝗰𝘂-𝘁𝗲𝗮𝘀! 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗮 𝘄𝗶𝗽!}}$</p>
 
