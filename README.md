@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://file.garden/Z5Phr4rck0l4hcXQ/top.png" alt="Sample Image" width="675" height="500"></p>
+ <p align="center"> <img src="https://cdn.discordapp.com/attachments/1524972731097944126/1557259497918038026/Untitled251_20261006201708.png?backend=b2&ex=6ac7266c&is=6ac5d4ec&hm=49ecee06f22c1b24d14059c821a5043c98ae41e05b7273ab11057bd10f5992bf&" alt="Sample Image" width="675" height="500"></p>
 
  <p align="center"> ${\textsf{\color{#FF5BA0}𝗛𝗲𝘆𝗮 𝗰𝘂-𝘁𝗲𝗮𝘀! 𝘁𝗵𝗶𝘀 𝗶𝘀 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗮 𝘄𝗶𝗽!}}$</p>
 
