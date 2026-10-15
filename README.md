@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://cdn.discordapp.com/attachments/1524972731097944126/1557261010732322877/Untitled251_20261006221907.png?backend=b2&ex=6ac727d5&is=6ac5d655&hm=f9938e1f35f7191c8510e7214f105dbcc78ab7557c3f2d4b4869cdbdc6371b3a&" alt="Sample Image" width="675" height="500"></p>
+ <p align="center"> <img src="https://cdn.discordapp.com/attachments/1524972731097944126/1557261010732322877/Untitled251_20261006221907.png?backend=b2&ex=6ac727d5&is=6ac5d655&hm=f9938e1f35f7191c8510e7214f105dbcc78ab7557c3f2d4b4869cdbdc6371b3a&" alt="[Sample Image](https://cdn.discordapp.com/attachments/1524972731097944126/1557261010732322877/Untitled251_20261006221907.png?backend=b2&ex=6ac727d5&is=6ac5d655&hm=f9938e1f35f7191c8510e7214f105dbcc78ab7557c3f2d4b4869cdbdc6371b3a&)" width="675" height="500"></p>
 
  <p align="center"> ${\textsf{\color{#FF5BA0}┃⠀⠀⠀⠀𝗇𝖺𝗒𝖺⠀⠀⠀⠀♡⠀⠀⠀⠀𝟲𝗍𝖾𝖾𝗇}}$</p>
 
